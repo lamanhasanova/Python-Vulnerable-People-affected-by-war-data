@@ -1,8 +1,8 @@
 # Python-Vulnerable-People-affected-by-war-data
 
 It is a data of vulnerable people who are affected by war:
-~ Marital Status;
-~ Disability Degree;
+- Marital Status;
+- Disability Degree;
 ~ Distribution of Age according to the Gender;
 ~ Work status of people;
 ~ War Impact;
